@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Mohammed
 
-<!--
-**Alimohamed1c/Alimohamed1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Flutter Developer**  
+💼 **Software Engineer**  
+📱 Passionate about building beautiful and functional mobile apps using Flutter.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Location:** Qena, Egypt  
+📧 **Email:** alimohamed1c1@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ali-mohammed-866829288)
+
+---
+
+### 💻 Skills:
+- Flutter
+- Dart
+- Firebase (basic)
+- Git & GitHub
+
+---
+
+### 🚀 Goals:
+- Improve my mobile development skills
+- Contribute to open-source projects
+- Learn advanced Flutter techniques
+
+---
+
+Thanks for visiting my profile!
